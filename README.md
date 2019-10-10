@@ -3,5 +3,5 @@ Training model for photos of capybaras and other animals on Colab.  This is a Ju
 
 Slides explaining the training and deployment process are at: http://bitly.com/capydetector
 
-The model is deployed at https://capydetector.herokuapp.com/
-(It may take a minute to warm up.)
+The model is deployed at https://capybara.animalcafes.com/
+
